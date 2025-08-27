@@ -1,5 +1,5 @@
 💻 [ronan.website](https://ronan.website)
 
-[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ronanyeah&count_private=true)](https://github.com/ronanyeah/ronanyeah)
+<img src="https://github-readme-stats.vercel.app/api?username=ronanyeah&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ronanyeah)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://trophygh.kolioaris.xyz/?username=ronanyeah&theme=radical" />
